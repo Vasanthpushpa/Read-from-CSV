@@ -1,6 +1,7 @@
 # Read-from-CSV
 
 ## AIM:
+To read words from a CSV file.
 
 ## ALGORITHM:
 ### Step 1:
